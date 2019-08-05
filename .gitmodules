@@ -1,11 +1,9 @@
 [submodule "libraries/libc/musl"]
 	path = libraries/libc/musl
 	url = https://github.com/3osio/musl
-	branch = eosio
 [submodule "libraries/libc++/libcxx"]
 	path = libraries/libc++/libcxx
 	url = https://github.com/3osio/libcxx
-	branch = eosio
 [submodule "eosio_llvm"]
 	path = eosio_llvm
 	url = https://github.com/eosio/llvm
