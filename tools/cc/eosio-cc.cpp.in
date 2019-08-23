@@ -14,7 +14,7 @@
 using namespace clang::tooling;
 using namespace llvm;
 
-#define COMPILER_NAME "eosio-cc"
+#define COMPILER_NAME "sio4-cc"
 #include <compiler_options.hpp>
 
 int main(int argc, const char **argv) {

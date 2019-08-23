@@ -27,7 +27,7 @@ using namespace clang::tooling;
 using namespace llvm;
 
 #define CPP_COMP 1
-#define COMPILER_NAME "eosio-cpp"
+#define COMPILER_NAME "sio4-cpp"
 #include <compiler_options.hpp>
 
 #include <set>
