@@ -11,7 +11,7 @@ SIO4.CDT currently supports Linux x86_64 Debian packages and Mac OS X brew.
 
 #### Debian Package Install
 ```sh
-$ wget https://github.com/3osio/sio4.cdt/releases/download/1.6.3-pre.1/sio4.cdt_1.6.3-pre.1-ubuntu-18.04_amd64.deb
+$ wget https://github.com/3osio/sio4.cdt/releases/download/v1.6.3-pre.1/sio4.cdt_1.6.3-pre.1-ubuntu-18.04_amd64.deb
 $ sudo apt install ./sio4.cdt_1.6.3-pre.1-ubuntu-18.04_amd64.deb
 ```
 #### Debian Package Uninstall
