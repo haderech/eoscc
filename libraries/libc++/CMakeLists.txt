@@ -24,7 +24,6 @@ target_include_directories(c++
       ${CMAKE_CURRENT_SOURCE_DIR}/libcxx/include
       ${CMAKE_CURRENT_SOURCE_DIR}/libcxxabi/include
    PRIVATE
-      ${CMAKE_CURRENT_SOURCE_DIR}/libcxxabi/src
       ${CMAKE_SOURCE_DIR}/libc/musl/include
       ${CMAKE_SOURCE_DIR}/libc/musl/src/internal
       ${CMAKE_SOURCE_DIR}/libc/musl/arch/eos
@@ -35,7 +34,6 @@ target_include_directories(native_c++
       ${CMAKE_CURRENT_SOURCE_DIR}/libcxx/include
       ${CMAKE_CURRENT_SOURCE_DIR}/libcxxabi/include
    PRIVATE
-      ${CMAKE_CURRENT_SOURCE_DIR}/libcxxabi/src
       ${CMAKE_SOURCE_DIR}/libc/musl/include
       ${CMAKE_SOURCE_DIR}/libc/musl/src/internal
       ${CMAKE_SOURCE_DIR}/libc/musl/arch/eos
